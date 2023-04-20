@@ -4,10 +4,10 @@ Simply follow steps and download and run your Minecraft Server!
 
 ##   1. Make sure to verify the latest verison of Java
 ### *If you do not have the latest version go to [download Java here](https://www.java.com/en/download/).
-### *If you need help troubleshooting go to https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server
+### *If you need help troubleshooting go to [Minecraft Server starting wiki](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server).
 
 ##   2. Download Minecraft_Server.jar
-### *Go to the offical Minecraft site https://www.minecraft.net/en-us/download/server
+### *Go to the [offical Minecraft site](https://www.minecraft.net/en-us/download/server)
 ### *Find and download minecraft_server.jar
 
 ##   3. Download the zip file
