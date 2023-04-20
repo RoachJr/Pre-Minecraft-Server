@@ -11,11 +11,11 @@ Simply follow steps and download and run your Minecraft Server!
 ### *Find and download minecraft_server.jar
 
 ##   3. Download the zip file
-### *Download the zip file listed as mincrN.zip in this repository
+### *Download the zip file listed as [mincrN.zip](https://github.com/Sleep-Demon/Pre-Minecraft-Server/blob/main/mincrN.zip) in this repository
 
 ##   4. Download ngrok
 ### *Make a free account
-### *Go to https://dashboard.ngrok.com/get-started/setup and download it for your OS
+### *Go to [ngrok dashboard](https://dashboard.ngrok.com/get-started/setup) and download it for your OS
 
 ##   5. Setting up the Files
 ### *Make a new folder named "Minecraft Server"
