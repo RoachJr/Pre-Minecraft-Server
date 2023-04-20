@@ -12,8 +12,8 @@ Simply follow steps and download and run your Minecraft Server!
 *Find and download minecraft_server.jar
 
 
-  3. Download the batch files
-*Download the batch files listed as batFiles.zip in this repository
+  3. Download the zip file
+*Download the zip file listed as mincrN.zip in this repository
 
 
   4. Download ngrok
@@ -24,3 +24,10 @@ Simply follow steps and download and run your Minecraft Server!
   5. Setting up the Files
 *Make a new folder named "Minecraft Server"
 *Drag all of the downloads into the folder
+*Unzip the ngrok zip file
+*Unzip the mncrN zip file
+*Double click minecraft_server.jar
+*Wait for about 10 seconds
+*Double click minecraft_server.jar again
+
+
